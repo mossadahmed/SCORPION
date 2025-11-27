@@ -1,6 +1,6 @@
 <!-- eslint-disable no-octal -->
 <template lang="pug">
-div(class="h-[1050px] md:h-[700px] lg:h-[700px] overflow-y-hidden w-full bg-[#23232399]" data-aos="fade-up" data-aos-duration="1000")
+div(class="h-[1050px] md:h-[700px] lg:h-[700px] overflow-y-hidden w-full bg-[#23232399] " data-aos="fade-up" data-aos-duration="1000")
   div(class="grid grid-cols-12 p-8 sm:p-16")
     div(class="mt-9 col-span-12 md:col-span-6 lg:col-span-6")
       h1(class="font-extrabold text-3xl md:text-4xl lg:text-5xl text-white text-start") FIND CLOTHES THAT MATCHES YOUR STYLE 
